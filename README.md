@@ -5,7 +5,8 @@
 🇮🇳 India
 
 📧 **Email:** shaketshivam@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shivamsaket  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shivamsaket
+🌐 **Portfolio:** https://your-portfolio-link.com
 
 ---
 
@@ -39,7 +40,7 @@ I believe in learning through consistency, documentation, and real practice.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivamsaket) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivam_saket88) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaketshivam@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivamsaket) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivam_saket88) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaketshivam@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
 <!-- Snake Game Repo View -->
 
 <div align="center">
